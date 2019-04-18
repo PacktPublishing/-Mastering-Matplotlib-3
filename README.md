@@ -26,16 +26,18 @@ Prior knowledge of Python programming language is necessary
 ### Technical Requirements
 This course has the following software requirements:<br/>
 Recommended Hardware Requirements:
-OS: Windows 7 or higher \  Mac OS X \ Linux (any modern flavour) 
-Processor: Intel \ AMD
-Memory:  4GB
-Storage:  50 GB Free Space on the Hard Disk
+<ul>
+<li>OS: Windows 7 or higher \  Mac OS X \ Linux (any modern flavour) </li>
+<li>Processor: Intel \ AMD</li>
+<li>Memory:  4GB</li>
+<li>Storage:  50 GB Free Space on the Hard Disk</li></ul>
 
 Recommended Software Requirements:
-Operating system: Windows 7 or higher \  Mac OS X \ Linux (any modern flavor) 
-Browser: Chrome or Firefox
-Atom IDE, Latest Version
-Python 3.6 or higher with modules - Pandas, numpy, Matplotlib 3 installed.
+<ul>
+<li>Operating system: Windows 7 or higher \  Mac OS X \ Linux (any modern flavor) </li>
+<li>Browser: Chrome or Firefox</li>
+<li>Atom IDE, Latest Version</li>
+<li>Python 3.6 or higher with modules - Pandas, numpy, Matplotlib 3 installed.</li></ul>
 
 ## Related Products
 * [Data Visualization Recipes with Python and Matplotlib 3 [Video]](https://www.packtpub.com/big-data-and-business-intelligence/data-visualization-recipes-python-and-matplotlib-3-video?utm_source=github&utm_medium=repository&utm_campaign=9781789957792)
